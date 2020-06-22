@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       Check out this URL
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">Surface Family</a>.
+      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">Surface Family</a>
     </p>
 
   </div>
