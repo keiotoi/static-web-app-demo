@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/NewSurfaceProducts.jpg">
+    <img alt="Vue logo" src="./assets/SurfaceDuo.jpg">
     <HelloWorld msg="Interested in Surface New Family?"/>
   </div>
 </template>
